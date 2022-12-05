@@ -216,4 +216,4 @@ class Ui_MainWindow(object):
         self.btn2.setText(_translate("MainWindow", "開始抽獎"))
         self.lbl3.setText(_translate("MainWindow", "中獎號碼"))
         self.lbl4.setText(_translate("MainWindow", "你的號碼"))
-        self.btn3.setText(_translate("MainWindow", "兌獎結果"))
+        self.btn3.setText(_translate("MainWindow", "對獎結果"))

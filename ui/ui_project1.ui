@@ -357,7 +357,7 @@
           <string notr="true">background-color:rgb(255, 176, 149)</string>
          </property>
          <property name="text">
-          <string>兌獎結果</string>
+          <string>對獎結果</string>
          </property>
         </widget>
        </item>
